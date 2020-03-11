@@ -1,0 +1,29 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Well_mesh_0013.obj'
+
+# Vertices (Count = 8)
+v -736 -800 0
+v -768 -800 0
+v -768 -768 0
+v -736 -768 0
+v -832 -800 0
+v -864 -800 0
+v -864 -768 0
+v -832 -768 0
+
+# Texture cooridinates (Count = 4)
+vt 0.53125 0.1333333
+vt 0.5625 0.1333333
+vt 0.5625 0.1666667
+vt 0.53125 0.1666667
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Well_mesh_0013
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+

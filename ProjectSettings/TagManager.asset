@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Dragon
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shadow
+  - Trees
+  - Player
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2836539485
+    locked: 0
+  - name: Map
+    uniqueID: 24380805
+    locked: 0
+  - name: Character
+    uniqueID: 938006219
+    locked: 0
+  - name: Trees
+    uniqueID: 2926587251
+    locked: 0
+  - name: Shadows
+    uniqueID: 2363039197
+    locked: 0
